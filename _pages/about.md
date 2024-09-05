@@ -2,8 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# 暂时关闭subtitle
+subtitle: ''
 profile:
   align: left
   image: prof_pic.jpg
