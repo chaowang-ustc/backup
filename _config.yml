@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 # 名字, 这里是外国人的格式, 暂时只使用last_name
 first_name: ''
-middle_name: 
+middle_name: ''
 last_name: 王超
 email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
