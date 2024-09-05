@@ -9,8 +9,8 @@ middle_name: ''
 last_name: 'Chao Wang  王超'
 email: you@example.com
 description: '' # the ">" symbol means to ignore newlines until "footer_text:"
-footer_text: # 底部的copyright, 暂时不要
-keywords:  # add your own keywords or leave empty
+footer_text: ''# 底部的copyright, 暂时不要
+keywords:  ''# add your own keywords or leave empty
 lang: cn # the language of your site (for example: en, fr, cn, ru, etc.) # 修改语言为中文
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
