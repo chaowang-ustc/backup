@@ -44,7 +44,7 @@ rss_icon: false # rss关掉
 # Layout
 # -----------------------------------------------------------------------------
 
-navbar_fixed: false # 固定navbar在最上面
+navbar_fixed: true # 固定navbar在最上面
 footer_fixed: false # 让copyright在最下面
 search_enabled: false # 关掉搜索
 socials_in_search: false # 关掉搜索
