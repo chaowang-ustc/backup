@@ -3,8 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-# 暂时关闭subtitle
-subtitle: ''
+subtitle: '中国科学技术大学人工智能与数据科学学院, 助理教授, 博导'
 profile:
   align: left
   image: avatar.png
